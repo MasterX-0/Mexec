@@ -25,6 +25,7 @@
 ## FEATURES:
 
 * The High-speed SMS Bombardment.
+* Sending 150+ SMS in per second.
 * User Friendly Interface.
 * & More...
 
