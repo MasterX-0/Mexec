@@ -25,7 +25,7 @@ python mexec.py
 
 ```console
 1. First You Need to Install Python.
-2. Download Mexec Latest Source Code .
+2. Download Mexec Latest Source Code. ( https://github.com/MasterX-0/Mexec/releases )
 3. Unzip It and Go to Folder Using CMD.
 4. Run these commands:
 
