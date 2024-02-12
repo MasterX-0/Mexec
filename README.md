@@ -6,7 +6,11 @@
 
 > This is the Most Powerful and Next Level SMS-Bomber Tool in Sri Lanka 🇱🇰 !
 
-## Linux / Termux
+## TESTED ON:
+
+## INSTALLTION:
+
+>> For Linux / Termux
 
 ```bash
 apt upgrade -y
@@ -15,6 +19,21 @@ git clone https://github.com/MasterX-0/Mexec.git
 cd Mexec
 pip install -r requirements.txt
 python mexec.py
+```
+
+>> For Windows
+
+```console
+1. First You Need to Install Python.
+2. Download Mexec Latest Source Code .
+3. Unzip It and Go to Folder Using CMD.
+4. Run these commands:
+
+    $ pip install -r requirements.txt
+
+After Installing You Can Run Tool. Use this command for it.
+
+    $ python mexec.py
 ```
 
 <!--
