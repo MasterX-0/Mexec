@@ -1,8 +1,14 @@
 # Mexec
 
-<a href="https://github.com/MasterX-0/Mexec.git">
+<p align="center">
+    <a href="https://github.com/MasterX-0/Mexec.git">
 <img src="mexec.png">
-</a>
+</a><br>
+    <a href="https://github.com/MasterX-0/Mexec"> <img src="https://img.shields.io/github/repo-size/MasterX-0/Mexec?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/MasterX-0/Mexec/commits/"> <img src="https://img.shields.io/github/last-commit/MasterX-0/Mexec?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/MasterX-0/Mexec/issues"> <img src="https://img.shields.io/github/issues/MasterX-0/Mexec?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/MasterX-0/Mexec/network/members"> <img src="https://img.shields.io/github/forks/MasterX-0/Mexec?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+ </p>
 
 > This is the Most Powerful and Next Level SMS-Bomber Tool in Sri Lanka 🇱🇰 !
 
