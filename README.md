@@ -11,6 +11,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
 </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://maxst.icons8.com/vue-static/icon/benefits/icon-windows-compliant.svg" alt="Linux" width="48" height="48" /></a>
 
 ## INSTALLTION:
 
