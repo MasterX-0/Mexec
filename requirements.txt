@@ -2,3 +2,8 @@ requests
 aiofiles
 aiohttp
 asyncio
+bs4
+python-dotenv
+pysocks
+DateTime
+dnspython
