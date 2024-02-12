@@ -12,7 +12,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
 </a>
 <a href="https://github.com/MasterX-0/Mexec.git" target="_blank" rel="noreferrer">
-<img src="https://maxst.icons8.com/vue-static/icon/benefits/icon-windows-compliant.svg" alt="Linux" width="48" height="48" /></a>
+<img src="https://maxst.icons8.com/vue-static/icon/benefits/icon-windows-compliant.svg" alt="Windows" width="48" height="48" /></a>
+<a href="https://github.com/MasterX-0/Mexec.git" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=96&id=nH6L66328KwU&format=png" alt="Android" width="48" height="48" /></a>
 
 ## INSTALLTION:
 
