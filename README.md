@@ -16,6 +16,12 @@
 <a href="https://github.com/MasterX-0/Mexec.git" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=96&id=nH6L66328KwU&format=png" alt="Android" width="48" height="48" /></a>
 
+## FEATURES:
+
+* The High-speed SMS Bombardment.
+* User Friendly Interface.
+* & More...
+
 ## INSTALLTION:
 
 >> For Linux / Termux
